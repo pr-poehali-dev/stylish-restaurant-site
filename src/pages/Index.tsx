@@ -153,7 +153,7 @@ const Index = () => {
           <div className="text-center mb-16">
             <h2 className="text-5xl md:text-6xl mb-6">Меню</h2>
             <div className="w-24 h-1 bg-primary mx-auto mb-8"></div>
-            <p className="text-muted-foreground text-lg">Сезон Зима 2024/25</p>
+            <p className="text-muted-foreground text-lg">Сезон Зима 2026/27</p>
           </div>
 
           <div className="space-y-16">
