@@ -83,7 +83,7 @@ const Index = () => {
           <p className="text-xl md:text-2xl text-muted-foreground mb-4 max-w-2xl mx-auto font-light">
             Авторская кухня, где каждое блюдо — это история
           </p>
-          <p className="text-lg text-muted-foreground/80 mb-12 italic">Философия шефа Александра Светова</p>
+          <p className="text-lg text-muted-foreground/80 mb-12 italic">Философия шефа Александра Симакина</p>
           <Button size="lg" className="text-lg px-8 py-6 hover:scale-105 transition-transform">
             Забронировать стол
           </Button>
@@ -103,7 +103,7 @@ const Index = () => {
                 <Icon name="Flame" size={40} className="text-primary mb-4" />
                 <h3 className="text-2xl mb-4">Авторский подход</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Шеф Александр Светов создаёт блюда на стыке традиций и инноваций. Каждая композиция — это баланс вкусов, текстур и эстетики.
+                  Шеф Александр Симакин создаёт блюда на стыке традиций и инноваций. Каждая композиция — это баланс вкусов, текстур и эстетики.
                 </p>
               </CardContent>
             </Card>
@@ -143,7 +143,7 @@ const Index = () => {
             <blockquote className="text-2xl md:text-3xl font-light italic text-foreground/90 mb-4">
               "Каждое блюдо — это диалог между шефом и гостем. Я не просто готовлю еду, я рассказываю истории через вкус."
             </blockquote>
-            <p className="text-muted-foreground">— Александр Светов, шеф-повар</p>
+            <p className="text-muted-foreground">— Александр Симакин, шеф-повар</p>
           </div>
         </div>
       </section>
