@@ -226,7 +226,7 @@ const Index = () => {
           <div className="text-center mb-16">
             <h2 className="text-5xl md:text-6xl mb-6">Бронирование</h2>
             <div className="w-24 h-1 bg-primary mx-auto mb-8"></div>
-            <p className="text-muted-foreground text-lg">Мы ждём вас каждый день с 18:00 до 00:00</p>
+            <p className="text-muted-foreground text-lg">Мы ждём вас каждый день с 12:00 до 00:00</p>
           </div>
 
           <Card className="bg-card/50 backdrop-blur border-border">
